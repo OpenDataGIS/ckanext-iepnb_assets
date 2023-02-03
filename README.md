@@ -1,5 +1,5 @@
 # ckanext-iepnb_assets
-Backup web assets of the [IEPNB Open Data portal](https://iepnb.es/catalogodatos) needed for the plugin [ckanext-iepnb](https://github.com/OpenDataGIS/ckanext-iepnb) plugin.
+Backup web assets of the [IEPNB Open Data portal](https://iepnb.es/catalogodatos) needed for the [ckanext-iepnb](https://github.com/OpenDataGIS/ckanext-iepnb) plugin.
 
 ```ini
 ## ckanext-iepnb
